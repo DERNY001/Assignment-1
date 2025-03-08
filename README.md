@@ -1,6 +1,7 @@
 # Assignment-1
 1.Explain what software engineering is and discuss its importance in the technology industry
 software engineering is a branch of computer science used for developing, testing and maintaining software.
+IMPORTANCES
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
  scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
@@ -19,7 +20,8 @@ List and briefly explain the phases of the Software Development Life Cycle.
 design - building the framework. 
 coding - converting software design into tangible code.
  testing - examine the software for any bugs and glitches
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Compare and contrast the Waterfall and Agile methodologies.
+Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
  changes are hard to incorporate once a phase is complete.
